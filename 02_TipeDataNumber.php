@@ -13,7 +13,7 @@
  var_dump(0b11111);
 
  echo "underscore in number :";
- var_dump(1_234_567);
+ var_dump(1_234_567); //tidak akan terbaca underscorenya
 
  echo "Floating Point : ";
  var_dump(1.234);
